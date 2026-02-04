@@ -1,0 +1,1 @@
+Fix Dreamcast game speed issues (Flycast v2.5 set as default)\n- Add fan speed settings to OSD\n- Refactor OSD CPU speed\n- Fix vertical shoot ’em up controls\n- Update RetroArch to v1.22.2\n- Remove Night Mode and CPU OSD on TSP-S\n- Fix MainUI translation when switching SD card (TSP / TSP-S)\n- Fix PortMaster
